@@ -1,0 +1,1 @@
+module.exports = { middle: true };
